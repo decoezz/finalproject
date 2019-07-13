@@ -1,4 +1,4 @@
-﻿token=NTMwNzcxNTY1MTIyNDIwNzQ2.XKX83A.jig-kqWAo2_4GaRgGb_FlwNqghI
+﻿token=NTYzMzUxNDIxNjQzMTI4ODMy.XSmvRg.S_0YR4awyh5A3JSG8sR7Iff0Nz0
 owner=330834906781450240 
 prefix=$
 stayinchannel=true
